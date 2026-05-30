@@ -56,7 +56,7 @@
 
 ---
 
-## 질문 링크
+## [질문 링크](https://app.sli.do/event/axrYnNjm65hsUZEGdnpzyx)
 
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/151b90af-4992-4db6-bc67-5ea8c593c8b7" />
 
